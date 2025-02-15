@@ -121,5 +121,5 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 ---
 
 ### **Author**
-Developed by **[Your Name]**  
-GitHub: [Your GitHub Profile](https://github.com/bharatcj)
+Developed by **Bharat CJ**  
+GitHub: https://github.com/bharatcj
